@@ -5,11 +5,18 @@
     font-family: 'Montserrat', sans-serif;
 }
 body{
-    
+    background-image: linear-gradient(to right , rgb(0, 0, 0) ,rgb(46, 40, 41));
 }
 
 .base{
-    display: inline-block;
+    color: white;
+    font-size: 80px;
+    font-weight: 800;
+    width:28%;
+    margin-top: 60px;
+    margin-left: 40px;
+    text-align: center;
+    
 }
 
 

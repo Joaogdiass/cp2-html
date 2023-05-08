@@ -1,0 +1,22 @@
+.avaliacao{
+    color: white;
+    display: flex;
+    
+}
+
+.avaliacao img{
+    width: 9%;
+    margin-left: 4.5%;
+    
+    
+}
+
+.avaliacao h3{
+    margin-left: 25px;
+    margin-top: 4px;
+    font-size: 35px;
+    font-weight: 300;
+    
+    
+    
+}
