@@ -1,0 +1,14 @@
+.descricao{
+    color: white;
+    width: 50%;
+    height: 50px;
+    margin-left: 115px;
+    padding: 20px 0;
+    
+}
+
+
+.descricao h3{
+    font-weight: 500;
+    padding: 10px 0px 0px 0px;
+}
