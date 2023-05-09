@@ -1,0 +1,39 @@
+.button{
+    width: 350px;
+    height: 80px;
+    background-color: transparent;
+    margin-left: 75%;
+    border: 2px solid #dc143c;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 30px;
+}
+
+a{
+    font-size: 50px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 50px;
+    letter-spacing: 5px;
+    
+}
+
+.button:hover{
+    background-color: #dc143c;
+    transform: scale(1.1);
+    height: 60%;
+}
+
+.preco{
+    
+    width: 400px;
+    height: 80px;
+    margin-left: 74%;
+    margin-bottom: 1%;
+    margin-top: 6.5%;
+    font-size: 50px;
+    text-align: center;
+    color: green;
+
+}
