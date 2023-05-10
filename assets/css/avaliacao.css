@@ -5,17 +5,12 @@
 .avaliacao{
     color: white;
     display: flex;
-    
-    
 }
-
 
 /* estrelinha */
 .avaliacao img{
     width: 9%;
     margin-left: 4.5%;
-    
-    
 }
 
 .avaliacao h3{
