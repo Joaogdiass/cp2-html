@@ -4,6 +4,7 @@
     height: 50px;
     margin-left: 115px;
     padding: 20px 0;
+    
 }
 
 .descricao h3{
@@ -16,4 +17,8 @@
     padding: 10px 0px 0px 0px;
     font-size: 30px;
     margin-bottom: 10px;
+}
+
+.avaliacao{
+    margin-left: 25px;
 }

@@ -7,9 +7,10 @@
     border-radius: 10px;
     text-align: center;
     padding: 5px 30px;
+    transition: .7s;
 }
 
-a{
+.btn{
     font-size: 50px;
     color: #fff;
     text-decoration: none;
@@ -31,7 +32,7 @@ a{
     height: 80px;
     margin-left: 74%;
     margin-bottom: 1%;
-    margin-top: 6.5%;
+    margin-top: 10.5%;
     font-size: 50px;
     text-align: center;
     color: green;
