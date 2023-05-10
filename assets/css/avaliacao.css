@@ -1,3 +1,7 @@
+
+
+/* css para a parte de avaliação do produto que fica em baixo do nome do vinho */
+
 .avaliacao{
     color: white;
     display: flex;
@@ -5,6 +9,8 @@
     
 }
 
+
+/* estrelinha */
 .avaliacao img{
     width: 9%;
     margin-left: 4.5%;
